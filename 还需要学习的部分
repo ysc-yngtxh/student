@@ -1,0 +1,49 @@
+// BeanFactory 与 FactoryBean 的区别
+// Arthas 火焰图
+sharding sphere5 分区分库分表
+敏感信息数据加密、解密：例如手机号
+SpringBoot参数校验 @Vaild、@Validated
+
+项目：停车场、支付、医疗、秒杀
+redission
+Guava应用
+23 种设计模式
+SpringBoot缓存 cache。咖啡
+Java9-Java17 新特性
+druid 监控
+//Spring cloud Alibaba
+//Spring 的各种扩展接口
+//布隆过滤器，拦截器里的令牌桶限流
+netty 思想详解 nio 与 pio
+Java 实现 PDF
+//Mvcc  保证数据一致性
+使用K8S实现灰度发布，金丝雀发布
+SpringBoot的Mock测试
+//Spring Boot的SPI扩展机制
+//@Condition、@Order、@DependsOn等注解
+//Spring Event事件监听
+//Java类加载过程，初始化顺序
+文件上传，分片，秒传，断点续传
+MongDB
+编程式事务TransactionalTemplate
+//DDD架构
+文件切片上传
+URL相关类
+Skywalking分布式系统的应用程序性能监视工具
+SpringBoot动态加载jar包
+IDEA在线上生产环境进行debug
+jvm 调优
+Java19 中的虚拟线程（协程）
+
+//MySQL 的底层详细了解 
+//Mysql 的索引原理和数据结构
+//b+树跟B 树的区别
+//Mysql 聚簇索引和非聚簇索引的区别
+//使用 mysql 索引都有什么原则
+//Mysql的组合索引的结构是什么样的
+//什么是回表、索引覆盖、最左匹配原则、索引下推
+//Mysql 索引如何进行优化
+
+//Mybatis原理笔记还没做完哦～
+
+
