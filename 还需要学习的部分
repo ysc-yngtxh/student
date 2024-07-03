@@ -8,26 +8,25 @@ SpringBoot参数校验 @Vaild、@Validated
 redission
 Guava应用
 23 种设计模式
-SpringBoot缓存 cache。咖啡
+//SpringBoot缓存 caffeine
 Java9-Java17 新特性
-druid 监控
+//druid 监控
 //Spring cloud Alibaba
 //Spring 的各种扩展接口
 //布隆过滤器，拦截器里的令牌桶限流
 netty 思想详解 nio 与 pio
-Java 实现 PDF
+//Java 实现 PDF，word 互转（富文本转 word）
 //Mvcc  保证数据一致性
 使用K8S实现灰度发布，金丝雀发布
-SpringBoot的Mock测试
+//SpringBoot的Mock测试
 //Spring Boot的SPI扩展机制
 //@Condition、@Order、@DependsOn等注解
 //Spring Event事件监听
 //Java类加载过程，初始化顺序
 文件上传，分片，秒传，断点续传
-MongDB
-编程式事务TransactionalTemplate
+//MongDB
+//编程式事务TransactionalTemplate
 //DDD架构
-文件切片上传
 URL相关类
 Skywalking分布式系统的应用程序性能监视工具
 SpringBoot动态加载jar包
